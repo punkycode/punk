@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.budswellinc.com	TRUE	/	FALSE	1999999999	PHPSESSID	296e5021e137e1eec47a3f82efc6d7cd
+.cryptonator.com	TRUE	/	FALSE	1999999999	__cfduid	dd6d96cf484c7967293201e15f5e247661614686258
+www.cryptonator.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
